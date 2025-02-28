@@ -4,12 +4,14 @@ using FluentValidation;
 using FluentValidation.AspNetCore;
 using Todo_PB202.Validators.TodoValidators;
 using System.Reflection;
+using Todo_PB202.Services;
 var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
 
 
 var builder = WebApplication.CreateBuilder(args);
 
 
+builder.Services.AddScoped<CloudinaryService>();
 
 
 builder.Services.AddCors(options =>

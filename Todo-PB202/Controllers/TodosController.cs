@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Todo_PB202.Services;
 
 namespace Todo_PB202.Controllers;
 
@@ -11,11 +12,13 @@ public class TodosController : ControllerBase
 
     private readonly AppDbContext _context;
     private readonly IMapper _mapper;
+    private readonly CloudinaryService _cloudinaryService;
 
-    public TodosController(AppDbContext context, IMapper mapper)
+    public TodosController(AppDbContext context, IMapper mapper, CloudinaryService cloudinaryService)
     {
         _context = context;
         _mapper = mapper;
+        _cloudinaryService = cloudinaryService;
     }
 
     [HttpGet]
@@ -64,7 +67,30 @@ public class TodosController : ControllerBase
         existTodo = _mapper.Map(dto, existTodo);
 
         _context.Todos.Update(existTodo);
-        await _context.SaveChangesAsync();  
+        await _context.SaveChangesAsync();
+
+        return Ok();
+    }
+
+   public class dto
+    {
+        public IFormFile file{ get; set; }
+    }
+
+
+    [HttpPost("NewImageUpload")]
+    public async Task<IActionResult> Test([FromForm] dto dto)
+    {
+        string url = await _cloudinaryService.FileCreateAsync(dto.file);
+
+
+        return Ok(url);
+    }
+
+    [HttpDelete("DeleteImage")]
+    public async Task<IActionResult> Delete(string url)
+    {
+        await _cloudinaryService.FileDeleteAsync(url);
 
         return Ok();
     }

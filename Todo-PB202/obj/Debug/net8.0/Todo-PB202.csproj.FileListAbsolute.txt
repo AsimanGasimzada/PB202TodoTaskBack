@@ -150,3 +150,6 @@ C:\Users\Asiman\source\repos\Todo-PB202\Todo-PB202\bin\Debug\net8.0\AutoMapper.d
 C:\Users\Asiman\source\repos\Todo-PB202\Todo-PB202\bin\Debug\net8.0\FluentValidation.dll
 C:\Users\Asiman\source\repos\Todo-PB202\Todo-PB202\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
 C:\Users\Asiman\source\repos\Todo-PB202\Todo-PB202\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Asiman\source\repos\Todo-PB202\Todo-PB202\bin\Debug\net8.0\CloudinaryDotNet.dll
+C:\Users\Asiman\source\repos\Todo-PB202\Todo-PB202\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Asiman\source\repos\Todo-PB202\Todo-PB202\obj\Debug\net8.0\Todo-PB202.sourcelink.json

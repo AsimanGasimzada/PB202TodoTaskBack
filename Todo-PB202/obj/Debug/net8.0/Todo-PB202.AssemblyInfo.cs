@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Todo-PB202")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41615e60ac69a788142e48c31761a1eb9c27b4a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Todo-PB202")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Todo-PB202")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

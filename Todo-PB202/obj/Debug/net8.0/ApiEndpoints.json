@@ -56,5 +56,37 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Todo_PB202.Controllers.TodosController",
+    "Method": "Delete",
+    "RelativePath": "api/Todos/DeleteImage",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "url",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Todo_PB202.Controllers.TodosController",
+    "Method": "Test",
+    "RelativePath": "api/Todos/NewImageUpload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

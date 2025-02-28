@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Asiman\\source\\repos\\Todo-PB202\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDFAA594-1BBD-4894-B35B-E8CC205243D8}|Todo-PB202\\Todo-PB202.csproj|c:\\users\\asiman\\source\\repos\\todo-pb202\\todo-pb202\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDFAA594-1BBD-4894-B35B-E8CC205243D8}|Todo-PB202\\Todo-PB202.csproj|solutionrelative:todo-pb202\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDFAA594-1BBD-4894-B35B-E8CC205243D8}|Todo-PB202\\Todo-PB202.csproj|c:\\users\\asiman\\source\\repos\\todo-pb202\\todo-pb202\\services\\cloudinaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFAA594-1BBD-4894-B35B-E8CC205243D8}|Todo-PB202\\Todo-PB202.csproj|solutionrelative:todo-pb202\\services\\cloudinaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFAA594-1BBD-4894-B35B-E8CC205243D8}|Todo-PB202\\Todo-PB202.csproj|c:\\users\\asiman\\source\\repos\\todo-pb202\\todo-pb202\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EDFAA594-1BBD-4894-B35B-E8CC205243D8}|Todo-PB202\\Todo-PB202.csproj|solutionrelative:todo-pb202\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDFAA594-1BBD-4894-B35B-E8CC205243D8}|Todo-PB202\\Todo-PB202.csproj|c:\\users\\asiman\\source\\repos\\todo-pb202\\todo-pb202\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,6 +17,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{EDFAA594-1BBD-4894-B35B-E8CC205243D8}|Todo-PB202\\Todo-PB202.csproj|c:\\users\\asiman\\source\\repos\\todo-pb202\\todo-pb202\\automappers\\todoautomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDFAA594-1BBD-4894-B35B-E8CC205243D8}|Todo-PB202\\Todo-PB202.csproj|solutionrelative:todo-pb202\\automappers\\todoautomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFAA594-1BBD-4894-B35B-E8CC205243D8}|Todo-PB202\\Todo-PB202.csproj|c:\\users\\asiman\\source\\repos\\todo-pb202\\todo-pb202\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFAA594-1BBD-4894-B35B-E8CC205243D8}|Todo-PB202\\Todo-PB202.csproj|solutionrelative:todo-pb202\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFAA594-1BBD-4894-B35B-E8CC205243D8}|Todo-PB202\\Todo-PB202.csproj|c:\\users\\asiman\\source\\repos\\todo-pb202\\todo-pb202\\dtos\\cloudinarydtos\\cloudinaryoptionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFAA594-1BBD-4894-B35B-E8CC205243D8}|Todo-PB202\\Todo-PB202.csproj|solutionrelative:todo-pb202\\dtos\\cloudinarydtos\\cloudinaryoptionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDFAA594-1BBD-4894-B35B-E8CC205243D8}|Todo-PB202\\Todo-PB202.csproj|c:\\users\\asiman\\source\\repos\\todo-pb202\\todo-pb202\\dtos\\tododtos\\todocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,16 +43,16 @@
       "RelativeMoniker": "D:0:0:{EDFAA594-1BBD-4894-B35B-E8CC205243D8}|Todo-PB202\\Todo-PB202.csproj|solutionrelative:todo-pb202\\validators\\todovalidators\\todocreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asiman\\source\\repos\\Todo-PB202\\Todo-PB202\\Migrations\\20250227123732_addedTodosTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Todo-PB202\\Migrations\\20250227123732_addedTodosTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EDFAA594-1BBD-4894-B35B-E8CC205243D8}|Todo-PB202\\Todo-PB202.csproj|c:\\users\\asiman\\source\\repos\\todo-pb202\\todo-pb202\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{EDFAA594-1BBD-4894-B35B-E8CC205243D8}|Todo-PB202\\Todo-PB202.csproj|solutionrelative:todo-pb202\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDFAA594-1BBD-4894-B35B-E8CC205243D8}|Todo-PB202\\Todo-PB202.csproj|c:\\users\\asiman\\source\\repos\\todo-pb202\\todo-pb202\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDFAA594-1BBD-4894-B35B-E8CC205243D8}|Todo-PB202\\Todo-PB202.csproj|solutionrelative:todo-pb202\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFAA594-1BBD-4894-B35B-E8CC205243D8}|Todo-PB202\\Todo-PB202.csproj|c:\\users\\asiman\\source\\repos\\todo-pb202\\todo-pb202\\migrations\\20250227123732_addedtodostable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFAA594-1BBD-4894-B35B-E8CC205243D8}|Todo-PB202\\Todo-PB202.csproj|solutionrelative:todo-pb202\\migrations\\20250227123732_addedtodostable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,46 +74,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TodoAutoMapper.cs",
-              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Todo-PB202\\Todo-PB202\\AutoMappers\\TodoAutoMapper.cs",
-              "RelativeDocumentMoniker": "Todo-PB202\\AutoMappers\\TodoAutoMapper.cs",
-              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Todo-PB202\\Todo-PB202\\AutoMappers\\TodoAutoMapper.cs",
-              "RelativeToolTip": "Todo-PB202\\AutoMappers\\TodoAutoMapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T12:50:18.11Z",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Todo-PB202\\Todo-PB202\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Todo-PB202\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Todo-PB202\\Todo-PB202\\appsettings.Development.json",
+              "RelativeToolTip": "Todo-PB202\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-28T11:10:31.933Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GlobalUsings.cs",
-              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Todo-PB202\\Todo-PB202\\GlobalUsings.cs",
-              "RelativeDocumentMoniker": "Todo-PB202\\GlobalUsings.cs",
-              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Todo-PB202\\Todo-PB202\\GlobalUsings.cs",
-              "RelativeToolTip": "Todo-PB202\\GlobalUsings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "CloudinaryOptionsDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Todo-PB202\\Todo-PB202\\Dtos\\CloudinaryDtos\\CloudinaryOptionsDto.cs",
+              "RelativeDocumentMoniker": "Todo-PB202\\Dtos\\CloudinaryDtos\\CloudinaryOptionsDto.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Todo-PB202\\Todo-PB202\\Dtos\\CloudinaryDtos\\CloudinaryOptionsDto.cs",
+              "RelativeToolTip": "Todo-PB202\\Dtos\\CloudinaryDtos\\CloudinaryOptionsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T12:44:08.895Z",
+              "WhenOpened": "2025-02-28T11:08:39.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CloudinaryService.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Todo-PB202\\Todo-PB202\\Services\\CloudinaryService.cs",
+              "RelativeDocumentMoniker": "Todo-PB202\\Services\\CloudinaryService.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Todo-PB202\\Todo-PB202\\Services\\CloudinaryService.cs",
+              "RelativeToolTip": "Todo-PB202\\Services\\CloudinaryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T11:07:31.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "TodoCreateDtoValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Todo-PB202\\Todo-PB202\\Validators\\TodoValidators\\TodoCreateDtoValidator.cs",
-              "RelativeDocumentMoniker": "Todo-PB202\\Validators\\TodoValidators\\TodoCreateDtoValidator.cs",
-              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Todo-PB202\\Todo-PB202\\Validators\\TodoValidators\\TodoCreateDtoValidator.cs",
-              "RelativeToolTip": "Todo-PB202\\Validators\\TodoValidators\\TodoCreateDtoValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T12:42:08.273Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "TodoCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Todo-PB202\\Todo-PB202\\Dtos\\TodoDtos\\TodoCreateDto.cs",
               "RelativeDocumentMoniker": "Todo-PB202\\Dtos\\TodoDtos\\TodoCreateDto.cs",
@@ -114,20 +126,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Todo-PB202\\Todo-PB202\\Program.cs",
+              "RelativeDocumentMoniker": "Todo-PB202\\Program.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Todo-PB202\\Todo-PB202\\Program.cs",
+              "RelativeToolTip": "Todo-PB202\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:35:40.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoAutoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Todo-PB202\\Todo-PB202\\AutoMappers\\TodoAutoMapper.cs",
+              "RelativeDocumentMoniker": "Todo-PB202\\AutoMappers\\TodoAutoMapper.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Todo-PB202\\Todo-PB202\\AutoMappers\\TodoAutoMapper.cs",
+              "RelativeToolTip": "Todo-PB202\\AutoMappers\\TodoAutoMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:50:18.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TodosController.cs",
               "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Todo-PB202\\Todo-PB202\\Controllers\\TodosController.cs",
               "RelativeDocumentMoniker": "Todo-PB202\\Controllers\\TodosController.cs",
               "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Todo-PB202\\Todo-PB202\\Controllers\\TodosController.cs",
               "RelativeToolTip": "Todo-PB202\\Controllers\\TodosController.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAkwD0AAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAYwFkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T12:38:12.582Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TodoCreateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Todo-PB202\\Todo-PB202\\Validators\\TodoValidators\\TodoCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "Todo-PB202\\Validators\\TodoValidators\\TodoCreateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Todo-PB202\\Todo-PB202\\Validators\\TodoValidators\\TodoCreateDtoValidator.cs",
+              "RelativeToolTip": "Todo-PB202\\Validators\\TodoValidators\\TodoCreateDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:42:08.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Todo-PB202\\Todo-PB202\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Todo-PB202\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Todo-PB202\\Todo-PB202\\GlobalUsings.cs",
+              "RelativeToolTip": "Todo-PB202\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:44:08.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "20250227123732_addedTodosTable.cs",
               "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Todo-PB202\\Todo-PB202\\Migrations\\20250227123732_addedTodosTable.cs",
               "RelativeDocumentMoniker": "Todo-PB202\\Migrations\\20250227123732_addedTodosTable.cs",
@@ -140,20 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Todo-PB202\\Todo-PB202\\Program.cs",
-              "RelativeDocumentMoniker": "Todo-PB202\\Program.cs",
-              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Todo-PB202\\Todo-PB202\\Program.cs",
-              "RelativeToolTip": "Todo-PB202\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T12:35:40.514Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Todo.cs",
               "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Todo-PB202\\Todo-PB202\\Models\\Todo.cs",
               "RelativeDocumentMoniker": "Todo-PB202\\Models\\Todo.cs",
@@ -166,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Todo-PB202\\Todo-PB202\\appsettings.json",
               "RelativeDocumentMoniker": "Todo-PB202\\appsettings.json",
@@ -179,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Todo-PB202\\Todo-PB202\\Contexts\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Todo-PB202\\Contexts\\AppDbContext.cs",
